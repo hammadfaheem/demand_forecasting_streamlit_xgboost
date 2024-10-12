@@ -1,0 +1,10 @@
+# Core Libraries
+streamlit==1.25.0
+pandas==2.0.3
+pydeck==0.8.0b4
+plotly==5.15.0
+base64==1.0.1
+
+# Optional Libraries
+numpy==1.25.2           # Used for data manipulation
+geopandas==0.14.0       # For geospatial data handling (optional if working with lat/lon data)
